@@ -22,14 +22,14 @@
                     "principalId": "82f63bb5-80ca-4f20-9dd8-c2ae33c8ab1a",
                     "principalIdDisplayName": "CTG Global CyberSec",
                     "delegatedRoleDefinitionIds": [
-                        "b24988ac-6180-42a0-ab88-20f7382dd24c",
-                        "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
+                        "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+                        "39bc4728-0917-49c7-9d2c-d95423bc2eb4"
                     ]
                 },
                 {
                     "principalId": "9227802a-3408-4462-842e-31048c6a7df3",
                     "principalIdDisplayName": "CTG Global Read-only",
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
                 },
                  {
                     "principalId": "a7c7fcae-a545-424e-9368-6ccabd8ac602",
@@ -39,7 +39,7 @@
                 {
                     "principalId": "e3d6aebb-7ddb-4478-862b-3bd54a3faef1",
                     "principalIdDisplayName": "CTG Vetdata Read-only",
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
                 },
                 {
                     "principalId": "a9552248-90b8-425f-b998-31b33fcd7e91",
